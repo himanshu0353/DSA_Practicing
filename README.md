@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/himanshu0353/DSA_Practicing/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/himanshu0353/DSA_Practicing/tree/master/0643-maximum-average-subarray-i) |
 | [0977-squares-of-a-sorted-array](https://github.com/himanshu0353/DSA_Practicing/tree/master/0977-squares-of-a-sorted-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/himanshu0353/DSA_Practicing/tree/master/1004-max-consecutive-ones-iii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/himanshu0353/DSA_Practicing/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2090-k-radius-subarray-averages](https://github.com/himanshu0353/DSA_Practicing/tree/master/2090-k-radius-subarray-averages) |
 ## Binary Search
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/himanshu0353/DSA_Practicing/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/himanshu0353/DSA_Practicing/tree/master/0209-minimum-size-subarray-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/himanshu0353/DSA_Practicing/tree/master/1004-max-consecutive-ones-iii) |
 ## Sorting
 |  |
 | ------- |
@@ -49,9 +51,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/himanshu0353/DSA_Practicing/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/himanshu0353/DSA_Practicing/tree/master/0643-maximum-average-subarray-i) |
+| [1004-max-consecutive-ones-iii](https://github.com/himanshu0353/DSA_Practicing/tree/master/1004-max-consecutive-ones-iii) |
 | [2090-k-radius-subarray-averages](https://github.com/himanshu0353/DSA_Practicing/tree/master/2090-k-radius-subarray-averages) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/himanshu0353/DSA_Practicing/tree/master/0209-minimum-size-subarray-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/himanshu0353/DSA_Practicing/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
