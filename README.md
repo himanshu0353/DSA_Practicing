@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/himanshu0353/DSA_Practicing/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/himanshu0353/DSA_Practicing/tree/master/0344-reverse-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/himanshu0353/DSA_Practicing/tree/master/0424-longest-repeating-character-replacement) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/himanshu0353/DSA_Practicing/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Array
 |  |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/himanshu0353/DSA_Practicing/tree/master/0209-minimum-size-subarray-sum) |
+| [0424-longest-repeating-character-replacement](https://github.com/himanshu0353/DSA_Practicing/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/himanshu0353/DSA_Practicing/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/himanshu0353/DSA_Practicing/tree/master/1004-max-consecutive-ones-iii) |
 | [2090-k-radius-subarray-averages](https://github.com/himanshu0353/DSA_Practicing/tree/master/2090-k-radius-subarray-averages) |
@@ -58,4 +60,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/himanshu0353/DSA_Practicing/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/himanshu0353/DSA_Practicing/tree/master/1004-max-consecutive-ones-iii) |
+## Hash Table
+|  |
+| ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/himanshu0353/DSA_Practicing/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->
