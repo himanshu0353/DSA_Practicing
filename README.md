@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/himanshu0353/DSA_Practicing/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/himanshu0353/DSA_Practicing/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/himanshu0353/DSA_Practicing/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/himanshu0353/DSA_Practicing/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/himanshu0353/DSA_Practicing/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/himanshu0353/DSA_Practicing/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/himanshu0353/DSA_Practicing/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/himanshu0353/DSA_Practicing/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/himanshu0353/DSA_Practicing/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/himanshu0353/DSA_Practicing/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/himanshu0353/DSA_Practicing/tree/master/0643-maximum-average-subarray-i) |
 | [0977-squares-of-a-sorted-array](https://github.com/himanshu0353/DSA_Practicing/tree/master/0977-squares-of-a-sorted-array) |
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/himanshu0353/DSA_Practicing/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/himanshu0353/DSA_Practicing/tree/master/0209-minimum-size-subarray-sum) |
+| [0349-intersection-of-two-arrays](https://github.com/himanshu0353/DSA_Practicing/tree/master/0349-intersection-of-two-arrays) |
 | [1004-max-consecutive-ones-iii](https://github.com/himanshu0353/DSA_Practicing/tree/master/1004-max-consecutive-ones-iii) |
 ## Sorting
 |  |
@@ -49,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/himanshu0353/DSA_Practicing/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/himanshu0353/DSA_Practicing/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/himanshu0353/DSA_Practicing/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/himanshu0353/DSA_Practicing/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/himanshu0353/DSA_Practicing/tree/master/0977-squares-of-a-sorted-array) |
 ## Greedy
 |  |
@@ -73,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/himanshu0353/DSA_Practicing/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/himanshu0353/DSA_Practicing/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/himanshu0353/DSA_Practicing/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/himanshu0353/DSA_Practicing/tree/master/0349-intersection-of-two-arrays) |
 | [0424-longest-repeating-character-replacement](https://github.com/himanshu0353/DSA_Practicing/tree/master/0424-longest-repeating-character-replacement) |
 ## Divide and Conquer
 |  |
