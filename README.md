@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/himanshu0353/DSA_Practicing/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/himanshu0353/DSA_Practicing/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/himanshu0353/DSA_Practicing/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/himanshu0353/DSA_Practicing/tree/master/0424-longest-repeating-character-replacement) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/himanshu0353/DSA_Practicing/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/himanshu0353/DSA_Practicing/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/himanshu0353/DSA_Practicing/tree/master/0242-valid-anagram) |
 | [0977-squares-of-a-sorted-array](https://github.com/himanshu0353/DSA_Practicing/tree/master/0977-squares-of-a-sorted-array) |
 ## Greedy
 |  |
@@ -67,5 +69,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/himanshu0353/DSA_Practicing/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/himanshu0353/DSA_Practicing/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/himanshu0353/DSA_Practicing/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->
