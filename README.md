@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/himanshu0353/DSA_Practicing/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/himanshu0353/DSA_Practicing/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/himanshu0353/DSA_Practicing/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/himanshu0353/DSA_Practicing/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/himanshu0353/DSA_Practicing/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/himanshu0353/DSA_Practicing/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/himanshu0353/DSA_Practicing/tree/master/0283-move-zeroes) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/himanshu0353/DSA_Practicing/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/himanshu0353/DSA_Practicing/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/himanshu0353/DSA_Practicing/tree/master/0242-valid-anagram) |
 | [0977-squares-of-a-sorted-array](https://github.com/himanshu0353/DSA_Practicing/tree/master/0977-squares-of-a-sorted-array) |
@@ -68,7 +70,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/himanshu0353/DSA_Practicing/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/himanshu0353/DSA_Practicing/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/himanshu0353/DSA_Practicing/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/himanshu0353/DSA_Practicing/tree/master/0424-longest-repeating-character-replacement) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/himanshu0353/DSA_Practicing/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/himanshu0353/DSA_Practicing/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/himanshu0353/DSA_Practicing/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
