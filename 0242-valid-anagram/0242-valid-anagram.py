@@ -1,18 +1,18 @@
 class Solution:
     def isAnagram(self, s: str, t: str) -> bool:
-        count = {}
         if len(s) != len(t):
             return False
+        hashmap = {}
+        for si in s:
+            hashmap[si] = hashmap.get(si, 0) + 1
 
-        for ss in s:
-            count[ss] = count.get(ss, 0)+ 1
-        
-        for tt in t:
-            if tt not in count:
+        for ti in t:
+            if ti not in hashmap:
                 return False
             
-            count[tt] -= 1
+            hashmap[ti] -= 1
 
-            if count[tt] < 0:
+            if hashmap[ti] < 0:
                 return False
+            
         return True
